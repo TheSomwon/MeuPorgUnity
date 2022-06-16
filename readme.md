@@ -1,7 +1,10 @@
 # Monkey Survival
 
 > Juste après le clone, quand Unity aura ouvert le projet, ne pas oublier de sélectionner la scène dans Assets/Scenes
-> Petit jeu type Survival-FPS, un singe poursuit le joueur pour l'attaquer, le joueur doit lui tirer dessus pour le tuer et survivre
+
+---
+
+Petit jeu type Survival-FPS, un singe poursuit le joueur pour l'attaquer, le joueur doit lui tirer dessus pour le tuer et survivre
 
 # Fonctionnel
 
